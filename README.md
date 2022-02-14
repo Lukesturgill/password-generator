@@ -12,8 +12,8 @@ JavaScript
 
 Website
 
-https://lernantino.github.io/run-buddy/
+https://lukesturgill.github.io/password-generator/
 
 Contribution
 
-Made with ❤️ by [your name]
+Modified by Luke Sturgill
