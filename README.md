@@ -1,19 +1,19 @@
-#Password Generator
+# Password Generator
 
-##Purpose
+## Purpose
 
 A website that generates a random password based on the credentials selected by the user
 
-##Built With
+## Built With
 
 HTML
 CSS
 JavaScript
 
-##Website
+## Website
 
 https://lukesturgill.github.io/password-generator/
 
-##Contribution
+## Contribution
 
 Modified by Luke Sturgill
